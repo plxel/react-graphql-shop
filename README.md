@@ -9,3 +9,4 @@ Tests: Jest
 TODO:
 - deploy to somewhere
 - add more description
+- add account page
